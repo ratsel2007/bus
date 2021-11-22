@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path id="avzva" d="M691.485 160.07l-1.414 1.415-7.071-7.071-7.071 7.071-1.414-1.414 7.07-7.071-7.07-7.071 1.414-1.415 7.07 7.071 7.072-7.07 1.414 1.414-7.07 7.07z"/></defs><symbol id="arc-de-triomphe" viewBox="0 0 512 512">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path id="avzva" d="M691.485 160.07l-1.414 1.415-7.071-7.071-7.071 7.071-1.414-1.414 7.07-7.071-7.07-7.071 1.414-1.415 7.07 7.071 7.072-7.07 1.414 1.414-7.07 7.07z" fill="#000"/></defs><symbol id="arc-de-triomphe" viewBox="0 0 512 512">
 <g>
 	<g>
 		<g>
@@ -47,7 +47,7 @@
 </g>
 <g>
 </g>
-</symbol><symbol id="check"><path d="M13 1L4.75 9 1 5.364" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></symbol><symbol id="close" viewBox="0 0 18 18"><g><g transform="translate(-674 -144)"><use fill="#fff" xlink:href="#avzva"/></g></g></symbol><symbol id="delivery-man" viewBox="0 0 512 512">
+</symbol><symbol id="close" viewBox="0 0 18 18"><g><g transform="translate(-674 -144)"><use fill="#fff" xlink:href="#avzva"/></g></g></symbol><symbol id="delivery-man" viewBox="0 0 512 512">
 <g transform="translate(1 1)">
 	<g>
 		<g>

@@ -576,7 +576,7 @@ for (let index = 0; index < popup_link.length; index++) {
 	const el = popup_link[index];
 	el.addEventListener('click', function (e) {
 		if (unlock) {
-			let item = el.getAttribute('href').replace('#', '');
+			let item = el.getAttribute('data-link');
 			let video = el.getAttribute('data-video');
 			popup_open(item, video);
 		}
@@ -1148,7 +1148,7 @@ function inputs_init(inputs) {
 					//'+38(999) 999 9999'
 					//'+375(99)999-99-99'
 					input.classList.add('_mask');
-					Inputmask("+375 (99) 9999999", {
+					Inputmask('+7 (999) 999-99-99', {
 						//"placeholder": '',
 						clearIncomplete: true,
 						clearMaskOnLostFocus: true,
