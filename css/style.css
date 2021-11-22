@@ -1333,6 +1333,11 @@ body.ie ._ibg img {
   line-height: 130%;
   font-weight: 300;
   text-transform: uppercase;
+  color: #000;
+}
+
+.item-features:hover .item-features__text {
+  text-decoration: underline;
 }
 
 .news__title {
