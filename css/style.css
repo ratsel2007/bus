@@ -1031,6 +1031,7 @@ body.ie ._ibg img {
 
 .bottom-header {
   position: relative;
+  padding: 5px 0px;
 }
 
 .bottom-header__container {
@@ -1607,7 +1608,7 @@ body.ie ._ibg img {
     -webkit-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
-    z-index: 3;
+    z-index: 8;
     overflow: auto;
   }
 
